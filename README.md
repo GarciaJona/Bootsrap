@@ -1,2 +1,2 @@
 # Bootsrap
-Se entrega primera entrega de Bootstrap
+Se entrega primera parte de Bootstrap
